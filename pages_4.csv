@@ -1,36 +1,0 @@
-,,,IMPORTATION,IMPORTATION,LIVRAISON,LIVRAISON,ANNEXE DECISION DU CONSEIL N 940/2014/UE du 17 DEC 2014 modifee par la decision (UE) 2019/ 664 du 15 AVR. 2019 A=10 points; B=20 points; C=30 points
-TARIF DEROGAT OIRE,CODE NC 2020,LIBELLE DES MARCHANDISES,TAUX OME,TAUX OMRE,TAUX OMI,TAUX OMRI,
-,SECTION I,ANIMAUX VIVANTS ET PRODUITS DU RÈGNE ANIMAL,,,,,
-,CHAPITRE 1,ANIMAUX VIVANTS,,,,,
-,0101 21 00,Chevaux reproducteurs de race pure,0,"2,5",0,"2,5",
-,0101 29 10,Chevaux destinés à la boucherie,7,"2,5",7,"2,5",
-,0101 29 90,Chevaux vivants (à l’excl. des animaux reproducteurs de race pure ainsi que des animaux destinés à la boucherie),7,"2,5",7,"2,5",
-,0101 30 00,"Ânes, vivants",7,"2,5",7,"2,5",
-,0101 90 00,"Mulets et bardots, vivants",7,"2,5",7,"2,5",
-,0102 21 10,"Génisses [bovins femelles qui n’ont jamais vêlé] reproductrices, de race pure",0,"2,5",0,"2,5",
-,0102 21 30,"Vaches reproductrices, de race pure (à l’excl. des génisses)",0,"2,5",0,"2,5",
-,0102 21 90,"Bovins domestiques reproducteurs, de race pure (à l’excl. des vaches et des génisses)",0,"2,5",0,"2,5",
-,0102 29 05,"Bovins domestiques vivants, du sous-genre Bibos ou Poephagus (à l'excl. des animaux reproducteurs de race pure)",7,"2,5",7,"2,5",
-,0102 29 10,"Bovins domestiques vivants, d’un poids <= 80 kg (à l’excl. des animaux reproducteurs de race pure)",7,"2,5",7,"2,5",
-,0102 29 21,"Bovins domestiques vivants, d’un poids > 80 kg mais <= 160 kg, destinés à la boucherie",7,"2,5",7,"2,5",
-,0102 29 29,"Bovins domestiques vivants, d’un poids > 80 kg mais <= 160 kg (à l’excl. des animaux reproducteurs de race pure et desanimaux destinés à la boucherie)",7,"2,5",7,"2,5",
-,0102 29 41,"Bovins domestiques vivants, d’un poids > 160 kg mais <= 300 kg, destinés à la boucherie",7,"2,5",7,"2,5",
-,0102 29 49,"Bovins domestiques vivants, d’un poids > 160 kg mais <= 300 kg (à l’excl. des animaux reproducteurs de race pure et desanimaux destinés à la boucherie)",7,"2,5",7,"2,5",
-,0102 29 51,"Génisses [bovins femelles qui n’ont jamais vêlé] vivantes, d’un poids > 300 kg, destinées à la boucherie",7,"2,5",7,"2,5",
-,0102 29 59,"Génisses [bovins femelles qui n’ont jamais vêlé] vivantes, d’un poids > 300 kg (à l’excl. des animaux reproducteurs de racepure et des animaux destinés à la boucherie)",7,"2,5",7,"2,5",
-,0102 29 61,"Vaches vivantes, d’un poids > 300 kg, destinées à la boucherie (à l’excl. des génisses)",7,"2,5",7,"2,5",
-,0102 29 69,"Vaches vivantes, d’un poids > 300 kg (à l’excl. des animaux reproducteurs de race pure, des génisses et des animaux destinésà la boucherie)",7,"2,5",7,"2,5",
-,0102 29 91,"Bovins domestiques vivants, d’un poids > 300 kg, destinés à la boucherie (à l’excl. des génisses et des vaches)",7,"2,5",7,"2,5",
-,0102 29 99,"Bovins domestiques vivants, d’un poids > 300 kg (à l’excl. des vaches, des génisses, des animaux reproducteurs de race pureet des animaux destinés à la boucherie)",7,"2,5",7,"2,5",
-,0102 31 00,Buffles reproducteurs de race pure,7,"2,5",7,"2,5",
-,0102 39 10,"Buffles domestiques, vivants (à l'excl. des animaux reproducteurs de race pure)",7,"2,5",7,"2,5",
-,0102 39 90,Buffles vivants (à l'excl. des espèces domestiques et des animaux reproducteurs de race pure),7,"2,5",7,"2,5",
-,0102 90 20,Animaux reproducteurs de race pure de l'espèce bovine (à l'excl. des bovins domestiques et des buffles),7,"2,5",7,"2,5",
-,0102 90 91,"Animaux domestiques vivants de l'espèce bovine (à l'excl. des bovins domestiques, des buffles et des animaux reproducteursde race pure)",7,"2,5",7,"2,5",
-,0102 90 99,"Animaux vivants de l'espèce bovine (à l'excl. des bovins domestiques, des buffles, des animaux reproducteurs de race pureet des espèces domestiques)",7,"2,5",7,"2,5",
-,0103 10 00,Porcins reproducteurs de race pure,0,"2,5",0,"2,5",
-,0103 91 10,"Porcins [des espèces domestiques], vivants, d'un poids < 50 kg (à l'excl. des animaux reproducteurs de race pure)",7,"2,5",7,"2,5",
-,0103 91 90,"Porcins des espèces non domestiques, vivants, d'un poids < 50 kg",7,"2,5",7,"2,5",
-,0103 92 11,"Truies, [des espèces domestiques], vivantes, d'un poids >= 160 kg, ayant mis bas au moins une fois (à l'excl. des animauxreproducteurs de race pure)",7,"2,5",7,"2,5",
-,0103 92 19,"Porcins [des espèces domestiques], vivants, d'un poids >= 50 kg (à l'excl. des animaux reproducteurs de race pure et destruies d'un poids >= 160 kg ayant mis bas au moins une fois)",7,"2,5",7,"2,5",
-,0103 92 90,"Porcins, des espèces non domestiques, vivants, d'un poids >= 50 kg",7,"2,5",7,"2,5",
